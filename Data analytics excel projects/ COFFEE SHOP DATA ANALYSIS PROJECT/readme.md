@@ -65,3 +65,9 @@ The dashboard includes the following insights:
 ## Dashboard Preview
 <img src="images/image 1.png">
 
+<img src="images/image2.png">
+
+<img src="images/image.png">
+
+
+
