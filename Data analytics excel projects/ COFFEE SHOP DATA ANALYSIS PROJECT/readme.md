@@ -63,4 +63,4 @@ The dashboard includes the following insights:
 
 
 ## Dashboard Preview
-![Dashboard Preview]
+![Dashboard Preview](Data analytics excel projects/ COFFEE SHOP DATA ANALYSIS PROJECT/images/image1.png)
