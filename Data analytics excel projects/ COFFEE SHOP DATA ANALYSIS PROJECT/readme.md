@@ -6,8 +6,6 @@ An interactive Excel dashboard was developed to track key business metrics, iden
 
 ---
 
-📊 Dataset Description
-
 ## Dataset Information
 **Dataset Name:** Coffee Shop Sales  
 **Description:** Transaction records from a fictitious coffee shop in New York City.
