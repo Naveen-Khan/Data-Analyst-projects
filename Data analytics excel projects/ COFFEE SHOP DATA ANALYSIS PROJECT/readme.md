@@ -63,11 +63,9 @@ The dashboard includes the following insights:
 - Power Pivot
 
 
-## Dashboard Preview
-<img src="images/image 1.png">
-
-<img src="images/image2.png">
-
+## Dashboard Preview 
+<img src="images/image2.png"><br><br>
+<img src="images/image 1.png"><br><br>
 <img src="images/image.png">
 
 
