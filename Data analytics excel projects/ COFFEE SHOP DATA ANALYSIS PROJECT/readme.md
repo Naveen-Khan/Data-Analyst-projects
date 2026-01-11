@@ -58,6 +58,9 @@ The dashboard includes the following insights:
 
 ## Tools and Techniques
 - Microsoft Excel
+- Power Query
+- Pivot Table
+- Power Pivot
 
 
 ## Dashboard Preview
