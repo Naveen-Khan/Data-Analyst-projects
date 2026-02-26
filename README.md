@@ -66,9 +66,9 @@ The dashboard includes the following insights:
 
 
 ## Dashboard Preview 
-<img src="images/image2.png"><br><br>
-<img src="images/image 1.png"><br><br>
-<img src="images/image.png">
+<img src="Data analytics excel projects/ COFFEE SHOP DATA ANALYSIS PROJECT/images/image2.png"><br><br>
+<img src="Data analytics excel projects/ COFFEE SHOP DATA ANALYSIS PROJECT/images/image 1.png"><br><br>
+<img src="Data analytics excel projects/ COFFEE SHOP DATA ANALYSIS PROJECT/images/image.png">
 
 
 
